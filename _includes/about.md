@@ -18,3 +18,7 @@ Have a look at our <a href="/projects">ongoing</a> and <a href="/projects/comple
 <br><br>
 <h5>Talks/ Lectures</h5>
 We organize talks and sessions with people who are working in this similar area, this includes talks by professors, Post-Docs, PhDs, and any other experienced individual. We also conduct lectures and workshops to provide the necessary background to newbies.
+
+<br><br>
+<h5>Roadmaps '24</h5>
+If you're passionate about exploring the fascinating worlds of machine learning and neuroscience, here we introduce you to the roadmaps to guide your journey,these resources are designed to equip you with the knowledge and skills you need. Access the detailed roadmaps for Machine Learning<a href="https://docs.google.com/document/d/1Nbo05cdQcP-vYY14t-xjEQ8rrL8iFT1Shdk4T_6XaRM/edit#heading=h.8w60o8retwqn">here</a>. and for Neuroscience <a href="https://docs.google.com/document/d/1MhET6FYxfvVaS5eU4B59mRG2X0A2YGL322WVF7CMBvY/edit#heading=h.8w60o8retwqn">here</a>. Happy Learning! (:.-
